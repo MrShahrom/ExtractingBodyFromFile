@@ -1,0 +1,14 @@
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\bin\Debug\net9.0\ExtractingBodyFromFile.exe
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\bin\Debug\net9.0\ExtractingBodyFromFile.deps.json
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\bin\Debug\net9.0\ExtractingBodyFromFile.runtimeconfig.json
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\bin\Debug\net9.0\ExtractingBodyFromFile.dll
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\bin\Debug\net9.0\ExtractingBodyFromFile.pdb
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.AssemblyInfoInputs.cache
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.AssemblyInfo.cs
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.dll
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\refint\ExtractingBodyFromFile.dll
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.pdb
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.genruntimeconfig.cache
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ref\ExtractingBodyFromFile.dll
