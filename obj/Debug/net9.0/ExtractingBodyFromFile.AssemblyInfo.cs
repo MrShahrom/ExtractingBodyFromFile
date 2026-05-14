@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtractingBodyFromFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bcf06cc4b635748cb649c1e9020b6e2a633c767")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtractingBodyFromFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtractingBodyFromFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

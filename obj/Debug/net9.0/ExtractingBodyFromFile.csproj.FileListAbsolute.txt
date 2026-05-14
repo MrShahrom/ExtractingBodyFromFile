@@ -12,3 +12,4 @@ C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFil
 C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.pdb
 C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.genruntimeconfig.cache
 C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ref\ExtractingBodyFromFile.dll
+C:\Users\Sh_Bobojonov\RiderProjects\ExtractingBodyFromFile\ExtractingBodyFromFile\obj\Debug\net9.0\ExtractingBodyFromFile.sourcelink.json
